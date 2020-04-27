@@ -1,8 +1,10 @@
-package com.example.popularmoivesstage1;
+package com.example.popularmoviesstage1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.popularmoviesstage1.R;
 
 public class MainActivity extends AppCompatActivity {
 
