@@ -1,3 +1,17 @@
-<resources>
-    <string name="app_name">Popular Moives Stage 1</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Popular Movies Stage 1</string>
+
+
+    <string name="share" tools:keep="@string/share">Share</string>
+    <string name="sort_by_most_popular">Sort by Most Popular</string>
+    <string name="sort_by_highest_rating">Sort by Highest Rating</string>
+    <string name="error_message_loading">And error has occurred while trying to connecting to the movie database.</string>
+    <string name="placeholder_string"><![CDATA[<Placeholder>]]></string>
+    <string name="move_detail_title" tools:keep="@string/move_detail_title">Title</string>
+    <string name="move_detail_release_date">Release Date</string>
+    <string name="move_detail_rating">Rating</string>
+    <string name="detail_plot">Description</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="movieposter">MoviePoster</string>
+
 </resources>

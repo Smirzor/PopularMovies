@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DetailActivity"
+    tools:keep="@menu/menu_detail">
+
+    <item android:id="@+id/share_movie"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1" />
+</menu>
